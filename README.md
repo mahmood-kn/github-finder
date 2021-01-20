@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an application for searching github users and see some details about their profile.
+This is an application for searching Github users and look at some details about their profile.
 
 **Note:** This project is my practice based on other resources.  
 
